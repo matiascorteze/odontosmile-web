@@ -1,0 +1,7 @@
+.barritaHor {
+  width: 5vw;
+  height: 5px;
+  background-color: var(--orange);
+  margin: 60px auto;
+  border-radius: 5px;
+}
