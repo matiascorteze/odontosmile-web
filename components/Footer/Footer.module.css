@@ -31,7 +31,7 @@
 }
 
 .footer a:hover {
-  color: #73cbf1;
+  color: var(--aqua);
 }
 
 .icon {
@@ -59,7 +59,7 @@
 }
 
 .signature:hover {
-  color: #73cbf1;
+  color: var(--aqua);
   transform: scale(1.1);
 }
 

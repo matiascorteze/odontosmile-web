@@ -28,29 +28,31 @@ export default function Contact() {
           <div className={styles.red}>
             <i className={`${styles.icon} fab fa-instagram`} />
             <a
-              href="https://www.instagram.com/odontosmile/"
+              href="https://www.instagram.com/odontosmile/.ar"
               target="_blank"
-              rel="noopener noreferrer">@odontosmile</a>
+              rel="noopener noreferrer">@odontosmile.ar</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} fab fa-facebook-square`} />
             <a
-              href="https://www.facebook.com/odontosmile/"
+              href="https://www.facebook.com/odontosmile.ar/"
               target="_blank"
-              rel="noopener noreferrer">/odontosmile</a>
+              rel="noopener noreferrer">/odontosmile.ar</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} far fa-envelope`} />
             <a
-              href="mailto:odontosmile@gmail.com&subject=Consulta%20web">odontosmile@gmail.com</a>
+              href="mailto:odontosmileturnos@gmail.com
+              ?subject=Consulta%20turno%20web
+              &body=Buen%20día!%20Necesito%20un%20turno.">odontosmileturnos@gmail.com</a>
           </div>
-          <div className={styles.red}>
+          {/* <div className={styles.red}>
             <i className={`${styles.icon} fas fa-phone-alt`} />
             <a
               href="https://wa.me/5491151743319"
               target="_blank"
               rel="noopener noreferrer">11-51743319</a>
-          </div>
+          </div> */}
         </div>
 
       </div>
