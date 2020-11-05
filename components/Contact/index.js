@@ -5,6 +5,7 @@ export default function Contact() {
     <section className={styles.container} id="contact">
 
       <h1 className={styles.title}>Sacá tu turno con nosotros</h1>
+      <h3 className={styles.subtitle}>Primera consulta gratis!</h3>
       <div className={styles.subcontainer}>
         <div className={styles.mapouter}>
           <div className={styles.gmap_canvas}>
@@ -16,14 +17,21 @@ export default function Contact() {
               scrolling="no"></iframe>
           </div>
         </div>
- 
+
         <div className={styles.info}>
-        <div className={styles.red}>
+          <div className={styles.red}>
             <i className={`${styles.icon} fas fa-map-marker-alt`} />
             <a
               href="https://goo.gl/maps/8rK2hUh8C2xnpfUD8"
               target="_blank"
               rel="noopener noreferrer">Av. Rivadavia 7356 - piso 1</a>
+          </div>
+          <div className={styles.red}>
+            <i className={`${styles.icon} far fa-calendar-alt`} />
+            <a
+              href="https://goo.gl/maps/8rK2hUh8C2xnpfUD8"
+              target="_blank"
+              rel="noopener noreferrer">Lunes a Sábados de 9 a 19hrs</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} fab fa-instagram`} />
@@ -44,15 +52,15 @@ export default function Contact() {
             <a
               href="mailto:odontosmileturnos@gmail.com
               ?subject=Consulta%20turno%20web
-              &body=Buen%20día!%20Necesito%20un%20turno.">odontosmileturnos@gmail.com</a>
+              &body=Hola!%20Me%20gustaría%20que%20me%20contacten.">odontosmileturnos@gmail.com</a>
           </div>
-          {/* <div className={styles.red}>
+          <div className={styles.red}>
             <i className={`${styles.icon} fas fa-phone-alt`} />
             <a
-              href="https://wa.me/5491151743319"
+              href="https://wa.me/5491125579244"
               target="_blank"
-              rel="noopener noreferrer">11-51743319</a>
-          </div> */}
+              rel="noopener noreferrer">11-25579244</a>
+          </div>
         </div>
 
       </div>

@@ -25,7 +25,8 @@ li {
 * {
   --darkgrey: #292929;
   --orange: #dd5737;
-  --aqua: #3eccc8;
+  --aqua: #0444b0;
+  --aquabu: #3eccc8;
   box-sizing: border-box;
   margin: 0;
   padding: 0;

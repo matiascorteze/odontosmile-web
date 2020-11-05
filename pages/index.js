@@ -6,6 +6,7 @@ import ServiceList from '../components/ServiceList'
 import styles from '../styles/Home.module.css'
 import Footer from '../components/Footer'
 import BarritaHor from '../components/BarritaHor'
+import Subhero from '../components/Subhero'
 
 export default function Home() {
   return (
@@ -19,6 +20,8 @@ export default function Home() {
       <Navbar />
 
       <Hero />
+
+      <Subhero />
 
       <BarritaHor />
 

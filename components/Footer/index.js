@@ -23,15 +23,15 @@ export default function Footer() {
           <a
             href="mailto:odontosmileturnos@gmail.com
               ?subject=Consulta%20turno%20web
-              &body=Buen%20día!%20Necesito%20un%20turno.">odontosmileturnos@gmail.com</a>
+              &body=Hola!%20Me%20gustaría%20que%20me%20contacten.">odontosmileturnos@gmail.com</a>
         </div>
-        {/* <div className={styles.red}>
+        <div className={styles.red}>
           <i className={`${styles.icon} fas fa-phone-alt`} />
           <a
-            href="https://wa.me/5491151743319"
+            href="https://wa.me/5491125579244"
             target="_blank"
-            rel="noopener noreferrer">11-51743319</a>
-        </div> */}
+            rel="noopener noreferrer">11-25579244</a>
+        </div>
         <div className={styles.red}>
           <i className={`${styles.icon} fas fa-map-marker-alt`} />
           <a
