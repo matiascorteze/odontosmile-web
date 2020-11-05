@@ -31,7 +31,7 @@ export default function ServiceList() {
   const brackets = [
     {
       "title": "Brackets",
-      "desc": ["https://i.postimg.cc/MTgTQPbC/brackets-02.jpg","Brackets Metálicos de acero inoxidable de color gris plata. Clásicos y económicos.", "https://i.postimg.cc/L5fsBtxn/brackets-03.jpg", "Brackets de Porcelana de color blanco siendo más estéticos y discretos.", "https://i.postimg.cc/j2QzdMgK/brackets-05.jpg", "Brackets de Zirconio que son altamente estéticos, de aspecto cristal."],
+      "desc": ["https://i.postimg.cc/MTgTQPbC/brackets-02.jpg","Brackets Metálicos de acero inoxidable de color gris plata. Clásicos y económicos.", "https://i.postimg.cc/L5fsBtxn/brackets-03.jpg", "Brackets de Porcelana de color blanco siendo más estéticos y discretos.", "https://i.postimg.cc/j2QzdMgK/brackets-05.jpg", "Brackets de Zafiro que son altamente estéticos, de aspecto cristal."],
       "img": "https://i.postimg.cc/wv1M38J5/brackets-01.jpg",
       "alt_img": ["https://i.postimg.cc/MTgTQPbC/brackets-02.jpg", "https://i.postimg.cc/L5fsBtxn/brackets-03.jpg", "https://i.postimg.cc/dQTDYFJw/brackets-04.jpg"]
     }
