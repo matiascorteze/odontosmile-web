@@ -5,7 +5,7 @@ export default function ButtonsSection() {
 
   function scrollToTop() { 
     scroll.scrollToTop(); 
-  console.log(scroll.scrollToTop)}
+}
 
   return (
     <ul className={styles.container}>

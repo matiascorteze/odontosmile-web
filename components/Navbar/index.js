@@ -17,8 +17,8 @@ export default function Navbar() {
           duration={10}>
           <img
             className={styles.logo}
-            src="https://i.postimg.cc/d3jW3bJt/odontosmile-logo-v2.png"
-            alt="Odontosmile logo" /></Link>
+            src="https://i.postimg.cc/vmwmBMxw/Logo-Totalsmile.png"
+            alt="Logo Totalsmile" /></Link>
         <ButtonsSection />
       </div>
     </nav>

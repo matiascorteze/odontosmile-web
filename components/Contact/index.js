@@ -36,23 +36,23 @@ export default function Contact() {
           <div className={styles.red}>
             <i className={`${styles.icon} fab fa-instagram`} />
             <a
-              href="https://www.instagram.com/odontosmile/.ar"
+              href="https://www.instagram.com/totalsmile/.ar"
               target="_blank"
-              rel="noopener noreferrer">@odontosmile.ar</a>
+              rel="noopener noreferrer">@totalsmile.ar</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} fab fa-facebook-square`} />
             <a
-              href="https://www.facebook.com/odontosmile.ar/"
+              href="https://www.facebook.com/totalsmile.ar/"
               target="_blank"
-              rel="noopener noreferrer">/odontosmile.ar</a>
+              rel="noopener noreferrer">/totalsmile.ar</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} far fa-envelope`} />
             <a
-              href="mailto:odontosmileturnos@gmail.com
+              href="mailto:turnos.totalsmile@gmail.com
               ?subject=Consulta%20turno%20web
-              &body=Hola!%20Me%20gustaría%20que%20me%20contacten.">odontosmileturnos@gmail.com</a>
+              &body=Hola!%20Me%20gustaría%20que%20me%20contacten.">turnos.totalsmile@gmail.com</a>
           </div>
           <div className={styles.red}>
             <i className={`${styles.icon} fas fa-phone-alt`} />
