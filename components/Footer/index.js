@@ -14,9 +14,9 @@ export default function Footer() {
         <div className={styles.red}>
           <i className={`${styles.icon} fab fa-facebook-square`} />
           <a
-            href="https://www.facebook.com/totalsmile.ar/"
+            href="https://www.facebook.com//Totalsmilear-112102714046888/"
             target="_blank"
-            rel="noopener noreferrer">/totalsmile.ar</a>
+            rel="noopener noreferrer">/Totalsmile.ar</a>
         </div>
         <div className={styles.red}>
           <i className={`${styles.icon} far fa-envelope`} />
