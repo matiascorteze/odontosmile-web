@@ -12,9 +12,10 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Odontosmile</title>
+        <title>Totalsmile - Clínica dental</title>
         <link rel="icon" href="/favicon.ico" />
         <script src="https://kit.fontawesome.com/19ab91f7bd.js" crossorigin="anonymous"></script>
+        <meta name="google-site-verification" content="GbEnakp9x0OesN6ag2Qm5mn7zzV-RY7uEd1xNwv7_qk" />
       </Head>
 
       <Navbar />
