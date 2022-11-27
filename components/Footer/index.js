@@ -18,13 +18,13 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer">/Totalsmile.ar</a>
         </div>
-        <div className={styles.red}>
+        {/* <div className={styles.red}>
           <i className={`${styles.icon} far fa-envelope`} />
           <a
             href="mailto:turnos.totalsmile@gmail.com
               ?subject=Consulta%20turno%20web
               &body=Hola!%20Me%20gustaría%20que%20me%20contacten.">turnos.totalsmile@gmail.com</a>
-        </div>
+        </div> */}
         <div className={styles.red}>
           <i className={`${styles.icon} fas fa-phone-alt`} />
           <a

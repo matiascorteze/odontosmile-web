@@ -1,7 +1,7 @@
-.mapouter{
-  text-align:right;
-  height:300px;
-  width:300px;
+.mapouter {
+  text-align: right;
+  height: 300px;
+  width: 300px;
   box-shadow: 0 0 0 4px white, 0 0 0 8px var(--aqua);
   border-radius: 10px;
   margin: 20px;
@@ -13,9 +13,9 @@
 }
 
 .gmap_canvas {
-  overflow:hidden;
-  height:300px;
-  width:300px;
+  overflow: hidden;
+  height: 300px;
+  width: 300px;
   border-radius: 10px;
 }
 
@@ -29,9 +29,17 @@
   color: var(--darkgrey);
 }
 
-.subcontainer {
+.mainContainer {
   display: flex;
   flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.subcontainer {
+  display: flex;
+  flex-direction: column;
   width: 100%;
   justify-content: center;
   align-items: center;
@@ -71,10 +79,19 @@
   transition: all 0.2s ease;
 }
 
-.red:hover{
-  color: var(--orange);
+.blockHeadline {
+  font-weight: 600;
+  font-size: 25px;
+  margin: 15px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
+.red:hover {
+  color: var(--orange);
+}
 
 @media all and (max-width: 450px) {
   .subcontainer {
@@ -94,6 +111,12 @@
     font-size: 18px;
     margin: 10px auto;
   }
+
+  .mainContainer {
+    flex-direction: column;
+    align-items: center;
+  }
+
 }
 
 @media all and (max-width: 800px) {

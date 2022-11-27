@@ -39,7 +39,7 @@ export default function ServiceList() {
 
   return (
     <section className={styles.container} id="services">
-      <h1 className={styles.maintitle}>Conocé nuestros servicios</h1>
+      <h1 className={styles.maintitle}>Conoce nuestros servicios</h1>
       <div className={styles.subcontainer}>
         {services && services.map((service, key) => {
           return (

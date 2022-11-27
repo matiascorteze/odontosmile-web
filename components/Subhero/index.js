@@ -21,13 +21,10 @@ export default function Subhero() {
           Cumplimos con las normas de higiene y bioseguridad.
         </li>
         <li className={styles.pro}>
-          Podés continuar con nosotros tu tratamiento de ortodoncia si tenés los Brackets ya instalados.
+          Puedes continuar con nosotros tu tratamiento de ortodoncia si tienes los Brackets ya instalados.
         </li>
         <li className={styles.pro}>
           Brindamos promociones continuas.
-        </li>
-        <li className={styles.pro}>
-          Fácil acceso por los diferentes medios de transporte público.
         </li>
       </ul>
     </section>
