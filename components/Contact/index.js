@@ -72,7 +72,7 @@ export default function Contact() {
             <div className={styles.red}>
               <i className={`${styles.icon} fas fa-map-marker-alt`} />
               <a
-                href="https://goo.gl/maps/8rK2hUh8C2xnpfUD8"
+                href="https://goo.gl/maps/u4m25NCVf6ckGCWi9"
                 target="_blank"
                 rel="noopener noreferrer">Av. Fernández de Zerpa <br /> Edif La Copita - Piso 3 Ofic 35</a>
             </div>
